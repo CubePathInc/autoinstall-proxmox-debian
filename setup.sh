@@ -164,4 +164,4 @@ EOF
 
 echo "Done. Rebooting in 5 seconds..."
 sleep 5
-reboot
+/usr/sbin/reboot
