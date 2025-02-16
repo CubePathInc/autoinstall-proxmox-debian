@@ -5,4 +5,4 @@ A simple script to install and configure [Proxmox VE](https://www.proxmox.com/en
 ## Usage
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/CubePathInc/autoinstall-proxmox-debian/main/setup.sh | bash
+wget -qO - https://raw.githubusercontent.com/CubePathInc/autoinstall-proxmox-debian/main/setup.sh | bash
